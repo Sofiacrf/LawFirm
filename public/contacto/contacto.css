@@ -96,15 +96,15 @@ body {
 	font-size: 14px;
 }
 .form-box button {
-	background-color: deepskyblue;
+	background-color: rgb(165, 184, 190);
 	color: #fff;
 	border: none;
 	border-radius: 5px;
 	cursor: pointer;
 	width: 100%;
-	font-size: 18px;
+	font-size: 15px;
 	padding: 10px;
-	margin: 20px 0px;
+	margin: 10px 0px;
 }
 span a {
 	color: #BBB;
