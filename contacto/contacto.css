@@ -20,7 +20,7 @@ body {
 .form-box {
 	background-color: rgba(0, 0, 0, 0.3);
 	margin: auto auto;
-	padding: 40px;
+	padding: 60px;
 	border-radius: 5px;
 	box-shadow: 0 0 10px #000;
 	position: absolute;
@@ -28,8 +28,8 @@ body {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	width: 500px;
-	height: 430px;
+	width: 480px;
+	height: 420px;
 }
 .form-box:before {
 	background-image: url("../images/contacto-img.jpg");
@@ -55,10 +55,10 @@ body {
 .form-box input {
 	margin: 10px 0px;
 	border: none;
-	padding: 10px;
+	padding: 15px;
 	border-radius: 5px;
 	width: 100%;
-	font-size: 18px;
+	font-size: 200px;
 	font-family: poppins;
 }
 .form-box input[type=checkbox] {
@@ -93,7 +93,7 @@ body {
 	line-height: 20px;
 }
 .form-box span {
-	font-size: 14px;
+	font-size: 15px;
 }
 .form-box button {
 	background-color: rgb(165, 184, 190);
@@ -102,7 +102,7 @@ body {
 	border-radius: 5px;
 	cursor: pointer;
 	width: 100%;
-	font-size: 15px;
+	font-size: 20px;
 	padding: 10px;
 	margin: 10px 0px;
 }
