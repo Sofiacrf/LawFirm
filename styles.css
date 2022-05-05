@@ -18,6 +18,9 @@ body {
 }
 
 /* CSS NAVBAR */
+.logo img {
+ padding-right: 0.5rem;
+}
 .topnav {
   background-color: rgba(0, 0, 0, 0.179);
   overflow: hidden;
