@@ -28,8 +28,8 @@ body {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	width: 480px;
-	height: 420px;
+	width: 440px;
+	height: 400px;
 }
 .form-box:before {
 	background-image: url("../images/contacto-img.jpg");
